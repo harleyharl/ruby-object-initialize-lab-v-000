@@ -1,4 +1,4 @@
-class Person(name)
+class Person
   def initialize(name)
     @name = name
   end
@@ -8,4 +8,4 @@ class Person(name)
   def name
     @name
   end
-end 
+end
